@@ -19,7 +19,7 @@ Getting started
 
 - Download dependencies:
 
-		sudo bower install -g
+		bower install -g
     
     bower install
 
