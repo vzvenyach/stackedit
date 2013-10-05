@@ -22,6 +22,7 @@ define([
     "extensions/workingIndicator",
     "extensions/notifications",
     "extensions/markdownExtra",
+    "extensions/lawTitle",
     "extensions/toc",
     "extensions/mathJax",
     "extensions/emailConverter",
@@ -182,7 +183,7 @@ define([
     addEventHook("onSectionsCreated");
     addEventHook("onMarkdownTrim");
     addEventHook("onExtraExtensions");
-    
+
     // Operation on ACE
     addEventHook("onAceCreated");
 
@@ -288,7 +289,7 @@ define([
                 right: -previewButtonsWidth + $btnGroupElt.width() + $btnGroupElt.position().left
             });
         });
-        
+
         // Call onReady listeners
         onReady();
     };
