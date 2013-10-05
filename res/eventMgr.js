@@ -22,7 +22,7 @@ define([
     "extensions/workingIndicator",
     "extensions/notifications",
     "extensions/markdownExtra",
-    "extensions/lawTitle",
+    "extensions/legisdown",
     "extensions/toc",
     "extensions/mathJax",
     "extensions/emailConverter",
