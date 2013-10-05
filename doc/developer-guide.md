@@ -15,11 +15,12 @@ Getting started
 
 - Download development tools:
 
-		npm install
+		sudo npm install
 
 - Download dependencies:
 
-		bower install
+		sudo bower install -g
+    bower install
 
 - To serve **StackEdit** in http://localhost/stackedit, add something like this in `httpd.conf`:
 
