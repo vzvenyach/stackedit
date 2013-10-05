@@ -20,6 +20,7 @@ Getting started
 - Download dependencies:
 
 		sudo bower install -g
+    
     bower install
 
 - To serve **StackEdit** in http://localhost/stackedit, add something like this in `httpd.conf`:
