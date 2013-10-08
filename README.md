@@ -1,4 +1,5 @@
 # Fork
+Really, go to the OpenGovFoundation fork first...
 
 ## Starting the server
 
